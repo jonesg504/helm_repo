@@ -3,7 +3,16 @@ entries:
   book-frontend:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-02-07T21:50:14.081282732-05:00
+    created: 2019-02-07T21:54:29.831294379-05:00
+    description: A Helm chart for Kubernetes
+    digest: 61dc2fafc2e26210d190d1af3fbce9cad99524c26eea5dc17002ee807d791b71
+    name: book-frontend
+    urls:
+    - https://jonesg504.github.io/helm_repo/book-frontend-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-02-07T21:54:29.831016056-05:00
     description: A Helm chart for Kubernetes
     digest: 241a182243ee17022148a2a57d6b5391a403d46226f6a3c345ed1a231041f0e3
     name: book-frontend
@@ -12,7 +21,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-02-07T21:50:14.081017156-05:00
+    created: 2019-02-07T21:54:29.830259409-05:00
     description: A Helm chart for Kubernetes
     digest: 7776e1b4b2f353fbc72abcce81d3ecd27f1c04059259680e28c4214705f24688
     name: book-frontend
@@ -21,11 +30,11 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-02-07T21:50:14.079883499-05:00
+    created: 2019-02-07T21:54:29.829384295-05:00
     description: A Helm chart for Kubernetes
     digest: 1918623d8dd9cbfd7d558e9c2c46cf6bf1c1dc2bc69d0e6e3f5222645d9fcb73
     name: book-frontend
     urls:
     - https://jonesg504.github.io/helm_repo/book-frontend-0.1.0.tgz
     version: 0.1.0
-generated: 2019-02-07T21:50:14.077973115-05:00
+generated: 2019-02-07T21:54:29.827875258-05:00
