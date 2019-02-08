@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  book-frontend:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-02-07T21:15:09.551172789-05:00
+    description: A Helm chart for Kubernetes
+    digest: 1918623d8dd9cbfd7d558e9c2c46cf6bf1c1dc2bc69d0e6e3f5222645d9fcb73
+    name: book-frontend
+    urls:
+    - https://jonesg504.github.io/helm_repo/book-frontend-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-02-07T21:15:09.548231507-05:00
